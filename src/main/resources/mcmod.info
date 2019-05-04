@@ -1,0 +1,16 @@
+[
+{
+  "modid": "fpslimiter",
+  "name": "FpsLimiter",
+  "description": "Limit the frames rate when the Minecraft form is not active.",
+  "version": "${version}",
+  "mcversion": "[1.8,1.12.2]",
+  "url": "",
+  "updateUrl": "https://raw.githubusercontent.com/ZekerZhayard/FpsLimiter/master/update.json",
+  "authorList": ["ZekerZhayard"],
+  "credits": "GPLv3e",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
